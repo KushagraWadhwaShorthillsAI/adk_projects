@@ -11,4 +11,4 @@ venv/
 
 # OS
 .DS_Store
-.mypy_cache
+.mypy_cacheresume_agent/data/*.pdf
